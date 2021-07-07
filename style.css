@@ -334,8 +334,12 @@ section{
 footer{
     background-color:#292929;
     text-align:center;
-    height: 200px;
+    height: 250px;
     color: white;
+}
+.footp{
+  color: #3498db;
+  font-weight: bold;
 }
 .back-to-top{
   padding-top: 0px;
